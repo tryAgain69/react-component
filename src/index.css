@@ -1,0 +1,24 @@
+*{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  margin-bottom: 20px;
+  background-color: rgb(55, 58, 57);
+  
+}
+.imgProfil{
+  height: 15%;
+  width: 20%;
+  border-radius: 10px;
+  border: 10px double;
+  
+ 
+}
+.Name{
+  font-style: verdana;
+  color: aliceblue;
+}
+.Address{
+  color: rgb(255, 196, 0);
+}
+
+
